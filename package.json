@@ -1,0 +1,11 @@
+{
+  "name": "soccer",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "conda activate mlagents && mlagents-learn .\\SoccerTwos.yaml --no-graphics --env=build --run-id=soccer-adjusts --num-envs=1",
+    "tensor": "tensorboard --logdir results --port 6006"
+  },
+  "author": "",
+  "license": "ISC"
+}

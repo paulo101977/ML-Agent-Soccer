@@ -1,0 +1,13 @@
+results/
+Packages/
+.vscode/
+.plastic/
+.idea/
+.vscode/
+Temp/
+build/
+ProjectSettings/
+Logs/
+Library/
+obj/
+UserSettings/
